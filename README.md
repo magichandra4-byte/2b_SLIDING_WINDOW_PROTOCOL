@@ -56,7 +56,7 @@ while i < n:
 # Close socket after all frames sent
 s.close()
 ```
-## OUPUT
+## OUTPUT
 <img width="1381" height="877" alt="image" src="https://github.com/user-attachments/assets/21c4847c-0189-4c7a-9fb5-ae2a845e4abc" />
 
 <img width="1407" height="917" alt="image" src="https://github.com/user-attachments/assets/937c01f0-63ba-490d-8cfc-968525264d27" />
